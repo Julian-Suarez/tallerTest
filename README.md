@@ -1,2 +1,2 @@
 # tallerTest
-taller de githuub para simulacion Co-60
+Taller de Github para Simulacion Co-60
